@@ -3,12 +3,12 @@ import React from 'react';
 // import { Star, Calendar, Book, Code, Gift, Clock } from 'lucide-react';
 import { Card, CardContent } from '../ui/card';
 
-import starIcon from '../../../assets/img/star.png';
-import calendarIcon from '../../../assets/img/calendar.png';
-import folderIcon from '../../../assets/img/folder.png';
-import bookIcon from '../../../assets/img/book.png';
-import suitcaseIcon from '../../../assets/img/suitcase.png';
-import clockIcon from '../../../assets/img/clock.png';
+import starIcon from '../../../public/assets/img/star.png';
+import calendarIcon from '../../../public/assets/img/calendar.png';
+import folderIcon from '../../../public/assets/img/folder.png';
+import bookIcon from '../../../public/assets/img/book.png';
+import suitcaseIcon from '../../../public/assets/img/suitcase.png';
+import clockIcon from '../../../public/assets/img/clock.png';
 
 interface AudienceItem {
   id: number;
